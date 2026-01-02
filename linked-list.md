@@ -18,3 +18,4 @@
 ## References:
 1. [linked-list-operasyonlar-kod-dökümü](https://medium.com/@tolgahan.cepel/do%C4%9Frusal-veri-yap%C4%B1lar%C4%B1-2-ba%C4%9Fl%C4%B1-liste-linked-list-8e5d3d84c41f)
 2. [linked-list-operations](https://www.programiz.com/dsa/linked-list-operations)
+3. [Linked-List](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
