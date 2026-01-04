@@ -4,6 +4,8 @@
 - Donanımlar veya programlama dilleri farklı cihazlarda aynı performansı vermeyebilir. Örnek verecek olursak, cep telefonları için uygulama tasarladığımızı varsayalım. Bu uygulamanın performansı Apple telefonlar için farklı, Android telefonlar için farklı, arasında donanım farklı olanlar için ayrı olacaktır. Donanım ve diller ile algoritma analizi pek sağlıklı değildir.
 - Algoritma analizi, bir algoritmanın çalışabilmesi için gerekli koşulların sağlanıp sağlanamadığını gösteren bir parametredir.
 
+- Aslında belli bir makinede çalıştırılabilir algoritmaların performansı için dikkat etmemiz gereken kriterler arasında ‘programlama dili seçiminin’ yanı sıra birçok teknoloji detayı vardır ki bunlar; derleyici seçimi, kodu hangi hızda çalıştırdığımız, belleğin ne kadar hızlı olduğu ve hatta önbelleğe alma işleminin miktarı olarak sıralanabilir.
+
 ## References:
 1. [derinlemesine-algoritma-analizi](https://birhankarahasan.com/algoritma-analizi-nedir-zaman-karmasikligi-big-o-gosterimi)
 2. [algoritma-analiz-wiki](https://tr.wikipedia.org/wiki/Algoritma_analizi)
