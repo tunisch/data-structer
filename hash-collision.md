@@ -8,5 +8,3 @@
 ## References:
 1. [Wiki](https://en.wikipedia.org/wiki/Hash_collision)
 2. [Detail-collision](https://freemanlaw.com/hash-collisions-explained/)
-
-   How can the best hash function without Hash collision
