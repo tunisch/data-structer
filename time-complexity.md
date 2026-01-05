@@ -7,7 +7,9 @@
 - Kullanacağımız algoritmayı analiz etmek istiyoruz. Problem ayıı olsa da farklı inputlar için algoritmamız farklı performans senaryoları üretebilir.
 - Diyelim ki bir kelimenin anlamını sözlükte arıyorum. Arama için sayfalara tek tek bakıyorum. Burada algoritmam sayfalara tek tek bakmak, input da aradığım kelime.
 - Aradığım kelimenin boyutu ayn ıolsa da hangi harfle başladığına göre yapacağım işlem (sayfa çevirme) sayısı değişebilir. Yani input algoritmamın yapacağı işlem sayısını etkileyebiliyor.
+
 **Bu yüzden analizimizi 3 ana başlık altında yapabiliriz: Worst case, average case, best case**
+
     1) Worst Case: Verecegimiz inputun algoritmamizi en yavaş (en fazla işlem yapacak) şekilde çalıştırdığı durum. Aradığımız kelimenin "z" ile başlaması gibi.
        - Her algoritmaya gore worst case farklı. Sözlüğe baştan değil sondan bakmaya başlasaydım "z" ile başlaması worst case olmazdı.
     2) Average Case: Genel olarak beklediğim durum.
@@ -17,6 +19,7 @@
 
 **Input (girdi) nedir?**
 - Algoritmanın çalışması için verdiğin her şey input’tur.
+
 **Java’dan düşünelim:**
 - Bir dizi → input
 - Dizinin uzunluğu → input’un boyutu
@@ -42,6 +45,7 @@ target = 7;
 ```
 **Hiç yok.**
 - → tüm diziyi dolaşır (n adım)
+
 **Bu yüzden analiz yaparken:**
 
 > “Bu algoritma n elemanlı input için ne kadar çalışır?”
