@@ -1,4 +1,11 @@
 # Sorting
+
+Sorting yaparsak assagidai gorseldeki **sorting yöntemlerinde** bizlere yardimci olur.
+
+Yani bastan siralayip inceleme yapmamiz hizlandirabilir eleman bulmayi! 
+
+<img width="870" height="590" alt="image" src="https://github.com/user-attachments/assets/07023ab6-3eab-4c48-a11e-ee245de2b32b" />
+
 - Sorting, kendinden sıralama algoritmaları olarak bahsetmektedir. Sorting, bir eleman dizisini, belirli sıralama kurallarına göre sıralama yapar.
 
 <img width="518" height="431" alt="image" src="https://github.com/user-attachments/assets/50c23f12-87f9-4045-91fa-e576ce0a9b07" />
