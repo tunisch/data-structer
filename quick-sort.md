@@ -30,8 +30,19 @@ Hızlı sıralama günümüzde çok yaygın olarak kullanılan bir sıralama alg
 
 Yukardaki Gorselde Time complexleri karsialstiriyoruz, normalde hepsinin Big-O notion u O(n^2), Ama Katsayisi 1/2 olan daha hizli calisir Cunku yarisi zamanda calisir ve bu yuzden daha hizli calisir diyebiliriz.
 
+## Example
 
-## Referance:
+1) Aşağıdakilerden hangisi Quick Sort'un özellikleri arasında yer almaz?
+
+- Günümüzde çok yaygın olarak kullanılır.
+- Bir pivot belirler, pivota göre diziyi parçalar.
+- Average case'in time complexity'si nlogn'dir.
+- Worst case'in time complexity'si n'dir.
+
+**Cevap**
+>  Worst case'in time complexity'si n'dir.
+
+### Referance:
 
 1.  [quick-sort](https://www.mobilhanem.com/algoritma-dersleri-quick-sort/)
 2.  [quick-sort-nedir](https://tr.wikipedia.org/wiki/H%C4%B1zl%C4%B1_s%C4%B1ralama)
