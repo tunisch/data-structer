@@ -1,5 +1,45 @@
 # Binary Search Algorithm
 
+**Binary search bir veri yapısı değildir, bir arama algoritmasıdır. Çalışabilmesi için temel bir şartı vardır: dizi sıralı olmak zorunda.**
+
+Diyelim ki elimizde sıralı bir dizi var:
+
+`[1, 3, 5, 7, 9]`
+
+- Bu dizide bir eleman aramak:
+
+    - Zaman karmaşıklığı: O(log n)
+
+> Çünkü her adımda arama alanını ikiye bölersin. Güzel, hızlı, matematiksel bir zen durumu.
+
+Ama şimdi kritik nokta geliyor.
+
+- “Yeni eleman eklersem ne olur?”
+
+**Dizi sıralı kalmak zorunda.**
+
+Mesela 6 ekleyeceksin:
+
+`[1, 3, 5, 6, 7, 9]`
+
+Burada olan şey şu:
+
+- Doğru yeri bulmak → O(log n) (binary search ile)
+```
+Ama…
+Dizide o noktadan sonraki tüm elemanları sağa kaydırman gerekir.
+```
+- Kaydırma maliyeti:
+
+**En kötü durumda: O(n)**
+
+> Sonuç:
+
+`Binary search + ekleme = O(n)`
+
+- Yani:
+    - **Binary search hızlı arar ama ekleme/silme konusunda berbat.**
+
 İkili arama algoritması, elimizde bulunan **veri dizisini sıralı olduğunu** varsayıyor, bu durumu değiştirerek sonuca varmak istiyor.
 
 - İkili arama algoritması, **diziyi her seferinde ikiye bölerek ikili arama yapar**. Sıralı bir listem var ise benim Big-o logn olarak karşımıza çıkıyor.
