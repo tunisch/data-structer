@@ -1,4 +1,5 @@
 # Binary Search Tree 
+Ram de Binary Search e gore farkli depolandigi icin bu yuzden yeni veri eklemede O(n) time complex durumu olusmaz. bos olan node a eklenerek sistem devam eder.
 
 - BST bir veri yapısıdır. Kuralı basit:
 
