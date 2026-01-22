@@ -1,7 +1,9 @@
 # Insertion Sort Algorithms
 
 ## İnsertion Sort Nasıl Çalışır?
-Bastan sonra arama yapilir en kucugu bulunup en basa yazilir (n arama) sonra (n-1) arama, boylelikle 1 aramaya kadar gider. n n-1 n-2 1 -> n.(n+1)/2 = O(n2) 
+Bastan sonra arama yapilir en kucugu bulunup en basa yazilir (n arama) sonra (n-1) arama, boylelikle 1 aramaya kadar gider. 
+
+`n n-1 n-2 1 -> n.(n+1)/2 = O(n2)` 
 
 Algoritmada döngümüz her bir tur döndüğünde sıradaki elemanı sondan başa doğru karşılaştırarak yerine yerleştirme esaslı çalışmaktadır.
 
