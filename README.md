@@ -15,6 +15,7 @@ This repository focuses on core data structure and algorithm concepts, implement
 * Selection Sort
 * Insertion Sort
 * Merge Sort
+* Bubble Sort
 
 ### Searching Algorithms
 
