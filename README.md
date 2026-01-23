@@ -1,3 +1,7 @@
-# data-structer
-"Implementations of common data structures with examples and tests."
+# Merge Sort
+## Proje 3
 
+**[16,21,11,8,12,22]** -> Merge Sort
+
+- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+- Big-O gösterimini yazınız.
