@@ -1,5 +1,5 @@
 # Merge Sort
-## Proje 2
+## Proje 3
 
 **[16,21,11,8,12,22]** -> Merge Sort
 
