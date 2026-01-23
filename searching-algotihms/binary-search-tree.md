@@ -1,7 +1,11 @@
 # Binary Search Tree 
 Ram de Binary Search e gore farkli depolandigi icin bu yuzden yeni veri eklemede O(n) time complex durumu olusmaz. bos olan node a eklenerek sistem devam eder.
+- BST bir veri yapısıdır.
 
-- BST bir veri yapısıdır. Kuralı basit:
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]**
+
+> ilk gelen root tur, Burada root: 7 dir
+- Kuralı basit:
 
 Sol alt ağaç < kök
 
