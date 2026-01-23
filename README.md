@@ -13,5 +13,6 @@ Big-O gösterimini yazınız.
 - Worst case: Aradığımız sayının sonda olması
 - Best case: Aradığımız sayının dizinin en başında olması.
 
+## Proje 2
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
